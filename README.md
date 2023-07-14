@@ -1,8 +1,16 @@
 # Curso Front-end
-#### EBAC
+Aprenda o que é necessário para desenvolver interfaces para web.
+## HTML 
+HyperText Markup Language - Linguagem de marcação de Hipertexto
 
-# GIT
-## Conceitos de versionamento
+## CSS
+Cascade StyleSheet - folhas de estilo em cascata.
+
+## JavaScript
+Liguagem de programação para web
+
+## GIT
+### Conceitos de versionamento
  - Histórico
  - Controle de versão
  - Quem alterou
@@ -14,19 +22,19 @@
  Arquivo A  | Versão 1 | Versão 2
  Arquivo B  | Versão 1 | Versão 2
 
- ## Instalação do Git
+ ### Instalação do Git
 https://git-scm.com/
 
 - Windows: https://git-scm.com/download/win
 - Linux (apt-get): sudo apt-get install git
 - Mac (brew): brew install git
 
- ## Criar conta no GitHub
+ ### Criar conta no GitHub
 
- ## Clonar o projeto
+ ### Clonar o projeto
  git clone https://github.com/cavalcantemmarcelo/curso-frontend.git
 
- ## Commits
+ ### Commits
  Informação de alteração
  - após testado todo seu código
  > git add *
@@ -34,8 +42,8 @@ https://git-scm.com/
  > git push (enviar alterações para o repositório GitHub)
  > git pull (puxar / trazer alterações do GitHub para sua máquina)
 
-## GitFlow
-Fluxo do Git
+### GitFlow
+Fluxo de trabalho no Git
 
 ### Branchs
 são ramificações / versões paralelas
